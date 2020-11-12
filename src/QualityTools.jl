@@ -1,0 +1,3 @@
+module QualityTools
+
+end
